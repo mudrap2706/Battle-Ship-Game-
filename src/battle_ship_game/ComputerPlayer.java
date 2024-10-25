@@ -1,0 +1,15 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package battle_ship_game;
+
+/**
+ *
+ * @author mudra
+ */
+public class ComputerPlayer extends Player {
+    public ComputerPlayer() {
+        super("Computer");
+    }
+}
